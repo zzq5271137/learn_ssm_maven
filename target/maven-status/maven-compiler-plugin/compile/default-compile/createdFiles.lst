@@ -1,0 +1,5 @@
+com\mycomp\domain\Teacher.class
+com\mycomp\service\ITeacherService.class
+com\mycomp\service\TeacherServiceImpl.class
+com\mycomp\web\TeacherController.class
+com\mycomp\mapper\TeacherMapper.class

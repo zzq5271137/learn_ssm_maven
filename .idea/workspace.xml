@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c0a860c-19c6-4813-b512-9de5e8f11395" name="Default Changelist" comment="" />
+    <list default="true" id="2c0a860c-19c6-4813-b512-9de5e8f11395" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +56,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -81,6 +86,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1YXE64tVVwC1oCdt3L9cQe3UkmQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -96,7 +102,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -115,7 +121,7 @@
       <recent name="H:\IDEA_workspace\Learn_SSM_Maven" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.30">
+  <component name="RunManager" selected="Maven.Learn_SSM_Maven [tomcat7:run]">
     <configuration name="Learn_SSM_Maven [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -388,6 +394,11 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
             </expand>
             <select />
           </treeState>
@@ -416,6 +427,7 @@
       <workItem from="1583094494592" duration="1986000" />
       <workItem from="1583096490345" duration="4000" />
       <workItem from="1583096611089" duration="57000" />
+      <workItem from="1583129997231" duration="362000" />
     </task>
     <servers />
   </component>
@@ -427,6 +439,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="398" y="3" key="#Learn_SSM_Maven_[tomcat7:run]/0.0.1536.824@0.0.1536.824" timestamp="1583090585100" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1583130063410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583130063410" />
     <state x="361" y="71" key="#SQL_Dialects" timestamp="1583083065063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -443,38 +459,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="315" y="194" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583095643558" />
-    <state width="1493" height="403" key="GridCell.Tab.0.bottom" timestamp="1583096481988">
+    <state width="1493" height="403" key="GridCell.Tab.0.bottom" timestamp="1583130358366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="403" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583096481988" />
-    <state width="1493" height="403" key="GridCell.Tab.0.center" timestamp="1583096481988">
+    <state width="1493" height="403" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583130358366" />
+    <state width="1493" height="403" key="GridCell.Tab.0.center" timestamp="1583130358365">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="403" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583096481988" />
-    <state width="1493" height="403" key="GridCell.Tab.0.left" timestamp="1583096481988">
+    <state width="1493" height="403" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583130358365" />
+    <state width="1493" height="403" key="GridCell.Tab.0.left" timestamp="1583130358365">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="403" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583096481988" />
-    <state width="1493" height="403" key="GridCell.Tab.0.right" timestamp="1583096481988">
+    <state width="1493" height="403" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583130358365" />
+    <state width="1493" height="403" key="GridCell.Tab.0.right" timestamp="1583130358365">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="403" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583096481988" />
-    <state width="1276" height="382" key="GridCell.Tab.1.bottom" timestamp="1583096481986">
+    <state width="1493" height="403" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583130358365" />
+    <state width="1276" height="281" key="GridCell.Tab.1.bottom" timestamp="1583130358361">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1276" height="382" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583096481986" />
-    <state width="1276" height="382" key="GridCell.Tab.1.center" timestamp="1583096481986">
+    <state width="1276" height="281" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583130358361" />
+    <state width="1276" height="281" key="GridCell.Tab.1.center" timestamp="1583130358360">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1276" height="382" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583096481986" />
-    <state width="1276" height="382" key="GridCell.Tab.1.left" timestamp="1583096481986">
+    <state width="1276" height="281" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583130358360" />
+    <state width="1276" height="281" key="GridCell.Tab.1.left" timestamp="1583130358360">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1276" height="382" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583096481986" />
-    <state width="1276" height="382" key="GridCell.Tab.1.right" timestamp="1583096481986">
+    <state width="1276" height="281" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583130358360" />
+    <state width="1276" height="281" key="GridCell.Tab.1.right" timestamp="1583130358360">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1276" height="382" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583096481986" />
+    <state width="1276" height="281" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583130358360" />
     <state x="270" y="0" key="SettingsEditor" timestamp="1583096667462">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

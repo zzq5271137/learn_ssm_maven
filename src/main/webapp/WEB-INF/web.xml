@@ -43,7 +43,7 @@
         <filter-class>
             org.springframework.web.filter.CharacterEncodingFilter
         </filter-class>
-        <!-- 设置编码参是UTF8 -->
+        <!-- 设置编码是UTF8 -->
         <init-param>
             <param-name>encoding</param-name>
             <param-value>UTF-8</param-value>

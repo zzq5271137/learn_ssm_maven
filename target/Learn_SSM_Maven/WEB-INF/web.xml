@@ -14,9 +14,7 @@
     <!-- 配置SpringMVC前端控制器 -->
     <servlet>
         <servlet-name>SpringMVC</servlet-name>
-        <servlet-class>
-            org.springframework.web.servlet.DispatcherServlet
-        </servlet-class>
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
         <!-- 指定SpringMVC配置文件 -->
         <!-- SpringMVC的配置文件的默认路径是/WEB-INF/${servlet-name}-servlet.xml -->
         <init-param>
@@ -40,9 +38,7 @@
     <!-- 解决post乱码问题 -->
     <filter>
         <filter-name>encoding</filter-name>
-        <filter-class>
-            org.springframework.web.filter.CharacterEncodingFilter
-        </filter-class>
+        <filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class>
         <!-- 设置编码是UTF8 -->
         <init-param>
             <param-name>encoding</param-name>
@@ -59,9 +55,7 @@
     -->
     <filter>
         <filter-name>HiddenHttpMethodFilter</filter-name>
-        <filter-class>
-            org.springframework.web.filter.HiddenHttpMethodFilter
-        </filter-class>
+        <filter-class>org.springframework.web.filter.HiddenHttpMethodFilter</filter-class>
     </filter>
     <filter-mapping>
         <filter-name>HiddenHttpMethodFilter</filter-name>

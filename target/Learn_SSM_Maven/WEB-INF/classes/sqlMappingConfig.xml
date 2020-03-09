@@ -28,4 +28,9 @@
         <package name="com.mycomp.domain"/>
     </typeAliases>
 
+    <plugins>
+        <!-- 分页插件 -->
+        <plugin interceptor="com.github.pagehelper.PageHelper"/>
+    </plugins>
+
 </configuration>
